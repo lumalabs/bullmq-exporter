@@ -1,0 +1,6 @@
+projectKey=bullmq-exporter
+serverUrl=https://secure-code.sandbox.labs.lumalabs.ai
+serverVersion=24.12.0.100206
+dashboardUrl=https://secure-code.sandbox.labs.lumalabs.ai/dashboard?id=bullmq-exporter
+ceTaskId=0a2e5678-cd6d-4f11-b9f7-0fcd8d2d9112
+ceTaskUrl=https://secure-code.sandbox.labs.lumalabs.ai/api/ce/task?id=0a2e5678-cd6d-4f11-b9f7-0fcd8d2d9112
